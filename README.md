@@ -5,4 +5,5 @@
 💬 Now I am a CTF player, this is my blog address:zimablue.life.<br>
 😄 Thank u for your watching and star.
 
+![ZimaBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeBetterCoder&show_icons=true&theme=tokyonight)
 
