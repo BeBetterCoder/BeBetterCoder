@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-
-
 ### This is ZimaBlue's Github
 🔭 I’m currently in SCU learning Security as an undergraduate student.<br>
 🌱 I have a keen interest in mathematics and cryptography.<br>
